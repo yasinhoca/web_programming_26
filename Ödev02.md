@@ -18,7 +18,6 @@
   Ödevler 3 Mart 2026 Salı günü ders saatinde olacaktır.<br>
   Ödevlerin hızlı kontrol edilebilmesi için, *mavi plastik kapaklı dosya içine her sayfa ayrı şeffaf dosyalara konulacak.<br>
   "Ödev kapağı şablonu" repisitory içinde <a href="https://github.com/yasinhoca/web_programming_26/blob/main/kapak.docx" >kapak.docx</a> olarak bulunabilir.<br>
-  Linke sağ tıklayarak bağlantıyı farklı kaydet demek suretiyle download edilebilir.<br>
   İlgili dosyalar classrooma da yüklenecek oradan da temin edebilirsiniz<br><br>
   *Mavi kapaklı dosya :<br>
   <img src="https://github.com/yasinhoca/web_programming_26/blob/main/maviDosya.jpg" style="width:25%">
