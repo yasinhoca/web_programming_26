@@ -1,9 +1,21 @@
 1. Vibe Coding nedir? İnternet üzerinde ve yapay zeka ile araştırma yaparak ön okuma yapınız! Ardından aşağıdaki işlemleri gerçekleştiriniz:<br>
   a. Terimi kısaca açıklayınız<br>
   b. Vibe Coding terimi ne zaman kim tarafından öne sürülmüştür?<br>
-  c. Repisitory de bulunan    <a href="https://github.com/yasinhoca/web_programming_26/blob/main/VibeCoding.pdf">VibeCoding.pdf</a> isimli dosyayı İngilizceniz yeterli ise orijinal metinden okuyunuz,<br> 
+  c. Repisitory de bulunan    <a href="https://github.com/yasinhoca/web_programming_26/blob/main/VibeCoding.pdf">VibeCoding.pdf</a> isimli dosyayı İngilizceniz yeterli ise original metinden okuyunuz,<br> 
   değilse chatGPT vb. bir yapay zekaya yükleyerek Türkçe'ye çevirtiniz ve okuyunuz. Ardından kendi cümleleriniz ile kısaca özetleyiniz.<br>
-  d. Bu araştırmalardan sonra yazılım/bilişim işlerinin/mühendisliğinin geleceğine dair kendi yorumunuzu bir paragraf olarak yazınız?<br>
+  d. Bu araştırmalardan sonra yazılım/bilişim işlerinin/mühendisliğinin geleceğine dair kendi öngörülerinizi/yorumunuzu bir paragraf olarak yazınız?<br>
   (Ödevin bu kısmı önemli, sizin yorumlarınız önemli)<br><br>
 
-2. 
+2. MVC nedir? Araştırıp açıklayınız?<br><br>
+
+3. PHP'de yaygın kullanılan MVC Frameworkleri hakkında araştırma yapınız? Kurulum, kullanım, ölçekleme açılarından karşılaştırınız.<br>
+  -Laravel<br>
+  -CodeIgniter<br>
+  -Symfony<br>
+  -Yii<br>
+  -Phalcon<br><br>
+
+  Ödevler 3 Mart 2026 Salı günü ders saatinde olacaktır.<br>
+  Ödevlerin hızlı kontrol edilebilmesi için, *mavi plastik kapaklı dosya içine her sayfa ayrı şeffaf dosyalara konulacak.<br>
+  Ödev kapağı şablonu repisitory içinde <a href="https://github.com/yasinhoca/web_programming_26/blob/main/kapak.docx" >kapak.docx</a> olarak bulunabilir.<br>
+   
