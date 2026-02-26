@@ -21,5 +21,5 @@
   Linke sağ tıklayarak bağlantıyı farklı kaydet demek suretiyle download edilebilir.<br>
   İlgili dosyalar classrooma da yüklenecek oradan da temin edebilirsiniz<br><br>
   *Mavi kapaklı dosya :<br>
-  <img src="https://github.com/yasinhoca/web_programming_26/blob/main/maviDosya.jpg">
+  <img src="https://github.com/yasinhoca/web_programming_26/blob/main/maviDosya.jpg" style="width:25%">
    
